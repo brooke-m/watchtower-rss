@@ -1,12 +1,12 @@
 {
-  "name": "Discord.RSS",
+  "name": "Watchtower.RSS",
   "version": "2.2.0",
-  "description": "Discord RSS bot with customizable feeds",
+  "description": "Discord RSS based on synzen base",
   "main": "server.js",
-  "author": "synzen",
-  "license": "MIT",
+  "author": "brooke-m",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/synzen/Discord.RSS/issues"
+    "url": ""
   },
   "dependencies": {
     "bufferutil": "^3.0.5",
