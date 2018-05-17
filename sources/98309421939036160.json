@@ -1,0 +1,23 @@
+{
+  "name": "SupersRP",
+  "id": "98309421939036160",
+  "sources": {
+    "feed1Id": {
+        "title": "Reddit - Super Hero RP",
+        "link": "https://www.reddit.com/r/supersrp/.rss",
+        "channel": "446474028782321664",
+        "message": "",
+        "embedMessage": {
+            "enabled": 1,
+      			"properties": {
+              "URL": "{link}",
+              "authorTitle": "{author}",
+              "authorAvatarURL": "https://i.imgur.com/CtlUOyV.png",
+      				"color": "14016495",
+      				"message": "**{title}**\n{description}",
+              "footerText": "{date}"
+      			}
+      	}
+    }
+  }
+}

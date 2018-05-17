@@ -6,12 +6,12 @@
     "showUnfiltered": true
   },
   "botSettings": {
-    "token": "",
+    "token": "TOKEN",
     "enableCommands": true,
     "prefix": "~",
     "defaultGame": "",
     "controllerIds": [],
-    "menuColor": 7833753,
+    "menuColor": 14016495,
     "deleteMenus": false
   },
   "feedManagement": {
@@ -23,10 +23,10 @@
     "maxEntryAge": 14
   },
   "feedSettings": {
-    "refreshTimeMinutes": 15,
-    "checkTitles": false,
-    "timezone": "America/New_York",
-    "dateFormat": "ddd, D MMMM YYYY, h:mm A z",
+    "refreshTimeMinutes": 1,
+    "checkTitles": true,
+    "timezone": "Pacific/Auckland",
+    "dateFormat": "ddd, Do MMMM YYYY, h:mm A z",
     "dateLanguage": "en",
     "dateLanguageList": ["en"],
     "dateFallback": false,
@@ -37,7 +37,7 @@
     "sendOldMessages": false,
     "defaultMaxAge": 1,
     "cycleMaxAge": 1,
-    "defaultMessage": ":newspaper:  |  **{title}**\n\n{link}\n\n{subscriptions}",
+    "defaultMessage": ":eye_in_speech_bubble:   |  **{title}**\n\n{link}\n\n{subscriptions}",
     "showRegexErrs": true,
     "imagePreviews": true,
     "imageLinksExistence": true,
